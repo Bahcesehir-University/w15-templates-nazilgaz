@@ -154,12 +154,6 @@ int main() {
  
     // You may add your own test calls here to experiment.
     std::cout << "maxValue(3, 7) = " << maxValue(3, 7) << "\n";
-    FixedArray<int, 3> fa;
-    FixedArray<double, 3> fa2;
-    FixedArray<std::string, 4> fa3;
-    fa.set(2, 5);
-    std::cout<< fa.at(2)<< "\n";
-    fa2.set(2, 11.2);
-    std::cout<< fa2.at(2)<< "\n";
+    
     return 0;
 }
