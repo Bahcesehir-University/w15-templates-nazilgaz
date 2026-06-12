@@ -1,18 +1,3 @@
-// ============================================================================
-
-//  Lab: C++ Templates  (STUDENT VERSION)
-
-//  Course: Object-Oriented Programming with C++
-
-//  Single file only. No headers. C++17.
-
-//
-
-//  Complete every TODO. Do NOT rename the functions/classes/methods,
-
-//  and do NOT change their signatures - the autograder depends on them.
-
-// ============================================================================
 
 #include <iostream>
 
