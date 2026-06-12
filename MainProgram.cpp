@@ -1,4 +1,4 @@
-/ T: C++ Templates  (STUDENT VERSION)
+// T: C++ Templates  (STUDENT VERSION)
 //  Course: Object-Oriented Programming with C++
 //  Single file only. No headers. C++17.
 //
